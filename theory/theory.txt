@@ -1,0 +1,4 @@
+-> A websocket helps in realtime communication of two clients. 
+-> In normal http requests we need to create a TCP connection everytime the client sends a new requst. 
+-> But in websockets we need to create it only once and then the users can communicate with each other. 
+-> Normal http connections are unidirectional but this is bidirectional
